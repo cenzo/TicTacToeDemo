@@ -8,9 +8,9 @@ TicTacToe demo game written in php
 #Installation
 
 - Download composer.phar (https://getcomposer.org/download/)
-- Run php composer.phr install from whithin the TicTacToeDemo folder
+- Run php composer.phar install from whithin the TicTacToeDemo folder
 
 
 #Play
-- the application can be run with the built-in php webserver with  php -S 127.0.0.1:8000 -t public 
-- open a web browser and visit http:localhost:8000
+- the application can be run with the built-in php webserver. Run "php -S 127.0.0.1:8000 -t public" in a terminal.
+- open a web browser and visit http://localhost:8000
