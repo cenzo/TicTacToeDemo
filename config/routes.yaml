@@ -1,0 +1,7 @@
+index:
+    path: /
+    controller: App\Controller\DefaultController::index
+
+game:
+    path: /game/move
+    controller: App\Controller\GameController::move
